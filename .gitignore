@@ -129,7 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv_coqui_py310
 env/
 venv/
 ENV/
