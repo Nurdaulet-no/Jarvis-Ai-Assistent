@@ -24,6 +24,6 @@ This is your own personal J.A.R.V.I.S., built with Python! 🧠🎙️ Inspired 
 🎙️ Integrated **VAD** for smart listening  
 🎛️ Supports **microphone resampling** for compatibility  
 🧾 Splits long AI responses to fit **TTS length limits**  
-🧑‍🎨 Easily customizable **AI personality** and **response style** via system prompts
+🧑‍🎨 Easily customizable **AI personality** and **response style** via system prompts.
 
 ---
